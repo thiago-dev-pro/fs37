@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(113, 9, 30);
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    background-color: blue;
+    color: whitesmoke;
+    font-size: 30px;
+    margin: 50px 10px 20px 70px;
+    padding: 20px;
+}
+
+span {
+    color: magenta;
+}
+
+img {
+    display: block; 
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+}

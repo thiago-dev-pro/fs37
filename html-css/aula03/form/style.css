@@ -1,0 +1,10 @@
+.formulario {
+    width: 400px;
+    height: 380px;
+
+    margin: 0 auto;
+}
+
+fieldset div {
+    margin-bottom: 5px;
+}
