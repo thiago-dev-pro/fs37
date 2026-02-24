@@ -1,0 +1,29 @@
+#semaforo {
+    width: 100px;
+    height: 300px;
+    background-color: black;
+    margin: 50px auto;
+}
+
+#lights {
+    padding-top: 5px;
+}
+
+.light {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 30px auto;
+}
+
+#color-red {
+    background-color: red;
+}
+
+#color-yellow {
+    background-color: yellow;
+}
+
+#color-green {
+    background-color: green;
+}
